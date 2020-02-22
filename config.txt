@@ -1,0 +1,6 @@
+﻿owner=680158335407882276
+prefix=w
+game=wplay
+stayinchannel=true
+songinstatus=false
+token=NjgwODYyMjkwMTAyNDUyMzAx.XlGEmw.kCOpODOOisK9hdg0p8EEk_d23jU
